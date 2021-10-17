@@ -1,6 +1,6 @@
 ﻿# SIX
 
-Repozitorij vsebuje računalniško verzijo igre six, o kateri si lahko preberete na: https://boardgamegeek.com/boardgame/20195/six
+Repozitorij vsebuje računalniško igro six, o kateri si lahko preberete na: https://boardgamegeek.com/boardgame/20195/six
 
 Projekt se izvaja v okviru predmeta Programiranje 2 na Fakulteti za matematiko in fiziko v Ljubljani.
 
